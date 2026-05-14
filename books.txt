@@ -1,0 +1,10 @@
+BK001,Clean Code,Robert Martin,true
+BK001,The Pragmatic Programmer,Andrew Hunt,true
+BK002,Design Patterns,Erich Gamma,true
+BK003,Java Concurrency in Practice,Brian Goetz,true
+BK004,Effective Java,Joshua Bloch,true
+BK005,Refactoring,Martin Fowler,true
+BK006,Head First Java,Kathy Sierra,true
+BK007,Introduction to Algorithms,Thomas H,true
+BK008,Cracking the Coding Interview,Gayle Laakmann,true
+BK009,Spring in Action,Craig Walls,true
